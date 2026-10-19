@@ -1,0 +1,9 @@
+<?php
+	//Ternary Operator
+
+$x = 10;
+
+$z = "Value is : " . ($x > 50 ? "Greater" : "Smaller");
+echo $z;
+
+?>
